@@ -1,12 +1,48 @@
-# React + Vite
+ 🚀 Features
+🔹 User Interface
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Fully responsive UI (desktop, tablet, mobile)
 
-Currently, two official plugins are available:
+Modern design using React + Tailwind / CSS / Material UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clean navigation with reusable components
 
-## Expanding the ESLint configuration
+🔹 Student Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Browse available courses
+
+View course details (videos, modules, tasks)
+
+Track progress with dashboards
+
+Enroll and continue learning
+
+🔹 Authentication
+
+Login / Signup screen
+
+Form validation
+
+Supports JWT integration (backend-ready)
+
+🔹 Course Module
+
+Video player page
+
+Lessons & materials section
+
+Quizzes (UI only)
+
+Assignments page
+
+🔹 Tech Stack
+
+React.js (Functional Components + Hooks)
+
+React Router for navigation
+
+Context API / Redux (optional)
+
+Axios for API calls
+
+Tailwind CSS / Material UI for styling
